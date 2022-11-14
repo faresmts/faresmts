@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Matheus Fares 🌱
 
-- 🔭 I’m currently working on @aiqfome - grupo magalu
+- 🔭 I’m currently intern dev at @aiqfome - magalu group
 - 🏢 Student at Universidade Federal do Ceará (UFC) - Software and Hardware Engineering
 - 🌱 I’m currently learning PHP Laravel <3
 - 😄 Pronouns: he/him
@@ -24,4 +24,4 @@
   <a href = "mailto:matheusfares@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusfares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/matheusfares-dev/matheusfares-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/matheus-fares/matheus-fares/blob/output/github-contribution-grid-snake.svg)
