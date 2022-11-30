@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently intern dev at @aiqfome - magalu group
 - 🏢 Student at Universidade Federal do Ceará (UFC) - Software and Hardware Engineering
-- 🌱 I’m currently learning PHP Laravel <3
+- 🌱 learning PHP and Laravel <3
 - 😄 Pronouns: he/him
 
 <div align="center">
