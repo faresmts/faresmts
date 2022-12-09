@@ -6,9 +6,9 @@
 - 😄 Pronouns: he/him
 
 <div align="center">
-  <a href="https://github.com/matheus-fares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-fares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-fares&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/faresmts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faresmts&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresmts&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
