@@ -22,6 +22,3 @@
 I currently work in the aiqfome API team, creating solutions with high scalability and loose coupling with PHP and using the Laravel framework. I also work applying TDD in an ecosystem with Docker, MySQL, GitFlow, Jira and Bitbucket.
 
 Furthermore, I am a Computer Engineering student at UFC and I also have knowledge in front end, JavaScript, Java, C/C++ and Computer Architecture. My specialties include fast learning of new skills, assertive and efficient communication, problem solving and I work very well in a team, I'm a great teamplayer. 
-
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=faresmts&hide_border=true&border_radius=20&background=00000000&fire=35BCB2&ring=7B1FA2&currStreakNum=F2F2F2&sideLabels=F2F2F2&dates=F2F2F2&stroke=7B1FA2&sideNums=F2F2F2&currStreakLabel=35BCB2)](https://git.io/streak-stats)
