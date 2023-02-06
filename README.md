@@ -9,7 +9,7 @@ I'm currently graduating in Hardware and Software Engineering  and I've been wor
 
 I was responsible for innovating and bringing good features into aiqfome, working most of the time developing a RESTful API with a large volume of requests. This brought me great challenges, from thinking about macro situations of great goals, going through creative and innovative solutions such as a PHP library that blocks bad words, to finally revitalizing tasks with incredible and differential features, such as a webhook within laravel for integration with API partners.
 
-Today I see myself as a more mature professional, working very well under pressure, with good team relationships and squad engagement, I consider myself a very team player. In addition, engineering brought me great power of critical and analytical thinking, problem solving, focus and dedication.
+Today I see myself as a more mature professional, working very well under pressure, with good team relationships and squad engagement, I see myself as a team player. In addition, engineering brought me great power of critical and analytical thinking, problem solving, focus and dedication.
 
 🔭 Enthusiast of web development technologies and embedded systems & IoT as a hobby.
 
