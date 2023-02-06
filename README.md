@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Fares-7b1fa2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfares/)](https://www.linkedin.com/in/matheusfares/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusfares@alu.ufc.br-7b1fa2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusfares@alu.ufc.b)](mailto:matheusfares@alu.ufc.br)
 
-I'm currently graduating in Computer Engineering and I've been working as an intern in back-end development since the third semester of the course, but even in that short time I acquired a good command of PHP and Laravel with Eloquent, TDD and Docker. Also, I'm studying Design Patterns, SOLID, DDD, Clean Code and Clean Architecture and I have knowledge of front-end, design and low-level computing.
+I'm currently graduating in Hardware and Software Engineering  and I've been working as an intern in back-end development since the third semester of the course, but even in that short time I acquired a good skill of PHP and Laravel with Eloquent, TDD and Docker. Also, I'm studying Design Patterns, SOLID, DDD, Clean Code and Clean Architecture and I have knowledge of front-end, design and low-level computing.
 
 I was responsible for innovating and bringing good features into aiqfome, working most of the time developing a RESTful API with a large volume of requests. This brought me great challenges, from thinking about macro situations of great goals, going through creative and innovative solutions such as a PHP library that blocks profanity, to finally revitalizing tasks with incredible and differential features, such as a webhook within laravel for integration with API partners.
 
