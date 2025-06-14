@@ -1,6 +1,6 @@
 # Matheus Fares 
 (he/him)
-### 4y Mid PHP/React developer - fullstack
+### 4y Mid PHP developer
  
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Fares-7b1fa2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfares/)](https://www.linkedin.com/in/matheusfares/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusfares@alu.ufc.br-7b1fa2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusfares@alu.ufc.b)](mailto:matheusfares@alu.ufc.br)
