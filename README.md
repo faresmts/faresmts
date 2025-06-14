@@ -9,7 +9,8 @@
 * Experienced in back-end development with PHP and Laravel (TDD, Docker, TALL stack).
 * Knowledgeable in Design Patterns, SOLID, DDD, Clean Code, and Clean Architecture.
 * Also skilled in front-end development, design, and low-level computing.
-* Learning AWS
+* AWS Cloud Practitioner
+* Currently studying for Azure AZ-204
 
 “A dropout will beat a genius through hard work.” - Rock Lee
 
